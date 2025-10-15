@@ -21,7 +21,7 @@
         "goldfinch/illuminate": "^2.0",
         "goldfinch/helpers": "^2.0",
         "unclecheese/display-logic": "^3.0",
-        "silvershop/silverstripe-hasonefield": "dev-main",
+        "silvershop/silverstripe-hasonefield": "^4",
         "jonom/silverstripe-someconfig": "^1.0",
         "dnadesign/silverstripe-elemental": "^5.0"
     },
